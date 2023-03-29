@@ -1,4 +1,4 @@
-#**Terraform Configuration for AWS VPC, EC2 and RDS**
+**Terraform Configuration for AWS VPC, EC2 and RDS**
 
 **This project contains terraform configuration files on creating EC2 and RDS instances inside a Custom VPC on AWS. Here is the architecture of what will be created:**
 
